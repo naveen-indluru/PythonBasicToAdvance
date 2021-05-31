@@ -6,4 +6,4 @@ Comments start with a #, and python renders the rest of the line as commet.
 '''
 
 #This is a comment
-print("This is python single line comment..")
+print("Hello you have made a comment in first line")
